@@ -1,12 +1,0 @@
-
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó«ºüÿÿÿÿ
-
-java:S14889"dImmediately return this expression instead of assigning it to the temporary variable "existingFilm".(®‰á‚üÿÿÿÿ
-R
-java:S3655"7Call "Optional#isPresent()" before accessing the value.(®‰á‚üÿÿÿÿ
-R
-java:S36559"7Call "Optional#isPresent()" before accessing the value.(®‰á‚üÿÿÿÿ
-n	java:S116"YRename this field "FilmRepository" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó¨ğÖ
-X	java:S125"<This block of commented-out lines of code should be removed.(ÌæÛ8ï·Â¨À0
-X	java:S125"<This block of commented-out lines of code should be removed.(äĞ¡Â8ÉôÁ¨À0
-Q	java:S125G"<This block of commented-out lines of code should be removed.(¸ÏãÁ
