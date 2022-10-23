@@ -12,7 +12,7 @@ import java.util.List;
 @RestController
 @CrossOrigin(origins = "*")
 //
-@RequestMapping("/film")
+@RequestMapping("/")
 
 public class FilmController {
 

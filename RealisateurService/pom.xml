@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>tn.esprit.spring</groupId>
-	<artifactId>FilmService</artifactId>
+	<artifactId>RealisateurService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>RealisateurService</name>
 	<description>Realisateur Services</description>
@@ -80,6 +80,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>realisateurservice</finalName>
 	</build>
 
 </project>

@@ -11,7 +11,7 @@ import tn.esprit.spring.services.RealisateurService;
 import java.util.List;
 
 @RestController
-@RequestMapping("/realisateur")
+@RequestMapping("/")
 public class RealisateurController {
     @Autowired
     private RealisateurService RealisateurServices;
